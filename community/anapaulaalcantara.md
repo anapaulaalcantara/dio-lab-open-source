@@ -1,12 +1,12 @@
 ## Olá 👋! Eu sou a [Ana Paula](https://github.com/anapaulaalcantara/)! 😁
 
 
-```
+
 Sou uma entusiasta da automação, autodidata, curiosa e muito criativa. Gosto de pessoas, desafios e resolver problemas. Descobri a programação quando senti a necessidade de automatizar minha operações na B3. Com o conhecimento que tinha no mercado financeiro e muitas horas de tentativa e erro, desenvolvi robôs para o Profit (NTSL). Conforme fui aprendendo, foram surgindo mais necessidades de novas implementações nos robôs como: gerenciamento de risco e resultado da última operação. Da necessidade surge a oportunidade. Então estou aqui para deixar de ser amadora e me tornar profissional. 
-```
 
 
-#### Cursando o primeiro semestre em **Analise e Desenvolvimento de Sistemas**. 
+
+#### Cursando o primeiro semestre em Analise e Desenvolvimento de Sistemas. 
 
 
 ## GitHub Stats
